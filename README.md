@@ -3,9 +3,6 @@
 
 > Three decades transforming complex business ideas into scalable systems — from COBOL to cloud-native architectures that actually solve real problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcioaltoe-blue?logo=linkedin)](https://www.linkedin.com/in/marcioaltoe/)
-[![X (Twitter)](https://img.shields.io/badge/X-marcioaltoe-000?logo=x)](https://x.com/marcioaltoe)
-
 ---
 
 ## 🎯 What Makes Me Different
@@ -121,6 +118,7 @@ Specializing in connecting legacy business logic with cloud-native architectures
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/marcioaltoe) · [X (Twitter)](https://x.com/marcioaltoe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcioaltoe-blue?logo=linkedin)](https://www.linkedin.com/in/marcioaltoe/)
+[![X (Twitter)](https://img.shields.io/badge/X-marcioaltoe-000?logo=x)](https://x.com/marcioaltoe)
 
 👨‍👦 Gabriel's dad · ⚽ Vasco da Gama fan 💢 · 🤓 Still learning after three decades
