@@ -116,6 +116,12 @@ Specializing in connecting legacy business logic with cloud-native architectures
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcioaltoe&theme=react-dark)
 
+## 📈 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcioaltoe&theme=radical)
+
+> 30 years building systems, 15+ years in business consultancy, countless problems solved.
+
 ---
 
 ## 📫 Connect
