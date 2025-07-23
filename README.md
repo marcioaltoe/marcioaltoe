@@ -112,7 +112,11 @@ Specializing in connecting legacy business logic with cloud-native architectures
 
 ## 📈 By The Numbers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaltoe&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaltoe&show_icons=true&theme=radical&count_private=true&include_all_commits=true&include_orgs=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcioaltoe&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcioaltoe&layout=compact&theme=radical&langs_count=8)
 
 ---
 
