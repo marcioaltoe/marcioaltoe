@@ -21,7 +21,7 @@ While most developers write queries that crash production, I optimize databases 
 ## 🛠️ Technology Arsenal
 
 ### **Languages & Core**
-- **JavaScript/TypeScript** (Expert-level)
+- **TypeScript/JavaScript** (Expert-level)
 - **Python** (Data processing, automation, integrations)
 - **SQL** (30 years of database mastery - PostgreSQL, MySQL, SQL Server)
 - **Legacy Systems** (COBOL, Basic, Pascal, Delphi, Visual Basic)
@@ -110,23 +110,9 @@ Specializing in connecting legacy business logic with cloud-native architectures
 
 ---
 
-## 📈 By The Numbers
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaltoe&theme=radical&hide=prs&show_icons=true)](https://github.com/marcioaltoe)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcioaltoe&theme=react-dark)
-
-## 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcioaltoe&theme=radical)
-
-> 30 years building systems, 15+ years in business consultancy, countless problems solved.
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcioaltoe-blue?logo=linkedin)](https://www.linkedin.com/in/marcioaltoe/)
 [![X (Twitter)](https://img.shields.io/badge/X-marcioaltoe-000?logo=x)](https://x.com/marcioaltoe)
 
-👨‍👦 Gabriel's dad · ⚽ Vasco da Gama fan 💢 · 🤓 Still learning after three decades
+⚽ Vasco da Gama fan 💢 · 👨‍👦 Gabriel's dad · 🤓 Still learning after three decades
