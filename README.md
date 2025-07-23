@@ -115,4 +115,4 @@ Specializing in connecting legacy business logic with cloud-native architectures
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcioaltoe-blue?logo=linkedin)](https://www.linkedin.com/in/marcioaltoe/)
 [![X (Twitter)](https://img.shields.io/badge/X-marcioaltoe-000?logo=x)](https://x.com/marcioaltoe)
 
-⚽ Vasco da Gama fan 💢 · 👨‍👦 Gabriel's dad · 🤓 Still learning after three decades
+💢 Vasco da Gama fan ⚽ · 👨‍👦 Gabriel's dad · 🤓 Still learning after three decades
